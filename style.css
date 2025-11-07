@@ -56,6 +56,9 @@ a:hover {
     color: color-mix(in srgb, var(--accent-color), transparent 25%);
     text-decoration: none
 }
+img{
+    width:100%;
+}
 
 h1,
 h2,
