@@ -4101,6 +4101,10 @@ section,
 .footer .footer-main img {
     width: 200px;
 }
+.sercard {
+    box-shadow: 4px 4px 0 0 var(--heading-color);
+}
+
 @media(max-width:1199.98px) {
     .portfolio-details .portfolio-details-content {
         padding-left: 1rem
@@ -4137,46 +4141,4 @@ section,
         width: 100%;
         text-align: center
     }
-}
-Chat
-
-New Conversation
-
-🤓 Explain a complex thing
-
-Explain Artificial Intelligence so that I can explain it to my six-year-old child.
-
-
-🧠 Get suggestions and create new ideas
-
-Please give me the best 10 travel ideas around the world
-
-
-💭 Translate, summarize, fix grammar and more…
-
-Translate "I love you" French
-
-
-GPT-4o Mini
-Hello, how can I help you today?
-GPT-4o Mini
-coin image
-10
-Upgrade
-
-
-
-Ask me anything...
-
-
-
-Powered by AITOPIA 
-Chat
-Ask
-Search
-Write
-Image
-ChatFile
-Vision
-Agent
-Full Page
+} 
