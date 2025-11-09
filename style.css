@@ -4105,6 +4105,15 @@ section,
     box-shadow: 4px 4px 0 0 var(--heading-color);
 }
 
+.aximo-iconbox-wrap {
+    padding: 30px;
+    border-radius: 20px;
+    background-color: white;
+    margin-bottom: 30px;
+    transition: all .4s;
+    border: 2px solid var(--heading-color);
+}
+
 @media(max-width:1199.98px) {
     .portfolio-details .portfolio-details-content {
         padding-left: 1rem
