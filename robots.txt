@@ -1,0 +1,3 @@
+Sitemap: https://webplusera.com/website/webplusera.netlify.app/sitemap.xml
+User-agent:*
+Disallow:
